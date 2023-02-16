@@ -16,18 +16,6 @@
     padding: 60 px 0;
   }
   
-  header {
-    height: 100vh;
-    background-image: linear-gradient(
-        to top,
-        rgba(196, 226, 245, 0.178) 0%,
-        rgba(226, 235, 240, 0.192) 100%
-      ),url(https://wallpapercave.com/wp/wp2776765.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-  }
   
   .head {
     padding: 0;
